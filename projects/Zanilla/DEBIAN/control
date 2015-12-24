@@ -1,8 +1,8 @@
-Package: com.purdix.zanilla9free
-Name: Zanilla9 Sample
+Package: com.purdix.zanilla9preview
+Name: Zanilla9 Preview
 Version: 1.0
 Architecture: iphoneos-arm
-Description: A taste of Zanilla 9
-Maintainer: Kogulan Sivaneshan (Purdix) <kogulan.sivaneshan@gmail.com>
-Author: Kogulan Sivaneshan (Purdix) <kogulan.sivaneshan@gmail.com>
-Section: Themes (Springboard)
+Description: A small taste of Zanilla9
+Maintainer: Purdix <kogulan.sivaneshan@gmail.com>
+Author: Purdix <kogulan.sivaneshan@gmail.com>
+Section: Themes
