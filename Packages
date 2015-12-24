@@ -1,0 +1,14 @@
+Package: com.purdix.zanilla9free
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kogulan Sivaneshan (Purdix) <kogulan.sivaneshan@gmail.com>
+Filename: ./debs//com.purdix.zanilla9free_1.0_iphoneos-arm.deb
+Size: 1146950
+MD5sum: 5c05722e0f4b64ae1a0325a25f56adb1
+SHA1: a4f980ea6229e5ab0124a61926b93661042d96e6
+SHA256: 7a3071c33799634c175fd7d53ef493c566a64e4f6ac27b50c7ed5d4690fe4fa9
+Section: Themes (Springboard)
+Description: A taste of Zanilla 9
+Author: Kogulan Sivaneshan (Purdix) <kogulan.sivaneshan@gmail.com>
+Name: Zanilla9 Sample
+
