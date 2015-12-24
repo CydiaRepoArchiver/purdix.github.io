@@ -1,2 +1,2 @@
-# zanilla.github.io
-Free sample of Zanilla
+# purdix.github.io
+Sugar, spice and everything nice. 
