@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Purdix <kogulan.sivaneshan@gmail.com>
 Filename: ./debs//com.purdix.zanilla9preview_1.0_iphoneos-arm.deb
-Size: 1146932
-MD5sum: bfa5938e8fabda6660945869c928ae02
-SHA1: f6022ef3eaa7a9e7e5e75a166c01f528c018732f
-SHA256: 3a88938a3e3de2bf7757e6748b8b36cd2c15cd61f200435470697b4c20bbdab7
+Size: 270142
+MD5sum: 09ffcce67599672e8e2ea35c3670051b
+SHA1: 7fe014ed1d016169ab760e416a9e28411e91c789
+SHA256: 45715580c86510f8a16b202f760a5bea7d01e05644eb3d59fed6bc9f92131e95
 Section: Themes
 Description: A small taste of Zanilla9
 Author: Purdix <kogulan.sivaneshan@gmail.com>
